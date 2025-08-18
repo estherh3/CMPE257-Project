@@ -1,5 +1,6 @@
 "# CMPE257-Project" Option2 – ML Model Training
 - Data Acquisition and Processing (10 points)
+  - Dataset: Numenta Anomaly Benchmark (NAB)   
 - Model Training and Evaluation (30 points)
   - Compare various state-of-the-art models
   - Proceed with model training.
